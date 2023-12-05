@@ -2,8 +2,6 @@
 
 Repo for the `GitHub Actions Fundamentals` training.
 
-**Test for trigger automation github**
-
 ## 👉 Objectives
 
 - Understand the __basic components__ and vocabulary of GitHub Actions
